@@ -1,0 +1,8 @@
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\controller\StudentController.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\entity\Student.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\exception\DuplicateRollNumberException.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\exception\GlobalExceptionHandler.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\exception\ResourceNotFoundException.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\repository\StudentRepository.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\service\StudentService.java
+C:\Users\DELL\Downloads\student-management\src\main\java\com\example\studentmanagement\StudentManagementApplication.java
